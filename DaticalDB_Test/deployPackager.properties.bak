@@ -11,4 +11,3 @@ ddbScmPath=C:\\Work\\AIG\\Github\\Repos\\DaticalDB_Repo
 #ddlExcludeList="package, packagebody, procedure, function, trigger, view"
 sqlScmPath=C:\\Work\\AIG\\Github\\Repos\\DaticalDB_SQLCODE
 sqlScmSQLBaseDir=sql_code
-
